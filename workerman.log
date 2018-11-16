@@ -1,0 +1,247 @@
+2018-11-14 02:20:51 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '\xE8\x90\xA8\xE8\xBE\xBE')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':\xE8\x90\xA8\xE8\xBE\xBE')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:20:52 pid:1 Worker process terminated
+2018-11-14 02:23:09 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '\xE7\xAC\xAC\xE4\xB8\x89\xE6\x96\xB9')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':\xE7\xAC\xAC\xE4\xB8\x89\xE6\x96\xB9')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:23:09 pid:1 Worker process terminated
+2018-11-14 02:26:47 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), ':123')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':123')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:26:47 pid:1 Worker process terminated
+2018-11-14 02:29:04 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), ':dfds')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':dfds')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:29:04 pid:1 Worker process terminated
+2018-11-14 02:33:14 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), ':123123')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':123123')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #28)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:33:14 pid:1 Worker process terminated
+2018-11-14 02:34:01 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '\xE5\xB1\x81\xE6\xA1\x83:3123123')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\xE5\xB1\x81\xE6\xA1\x83:3123123')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:34:01 pid:1 Worker process terminated
+2018-11-14 02:34:16 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '\xE5\xB1\x81\xE6\xA1\x83:123213')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\xE5\xB1\x81\xE6\xA1\x83:123213')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:34:16 pid:1 Worker process terminated
+2018-11-14 02:35:03 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'aaa:123123')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'aaa:123123')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:35:03 pid:1 Worker process terminated
+2018-11-14 02:36:07 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'aaa:123213')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'aaa:123213')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:36:07 pid:1 Worker process terminated
+2018-11-14 02:36:52 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'aaa:123')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'aaa:123')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 02:36:52 pid:1 Worker process terminated
+2018-11-14 06:24:58 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '[object Object]...')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '[object Object]...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(104): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 06:24:58 pid:1 Worker process terminated
+2018-11-14 07:22:17 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '[object Object]...')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '[object Object]...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #34)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(122): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 07:22:17 pid:1 Worker process terminated
+2018-11-14 07:23:36 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:93
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '[object Object]...')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '[object Object]...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(122): Workerman\Worker::runAll()
+#9 {main}
+2018-11-14 07:23:36 pid:1 Worker process terminated
+2018-11-15 06:59:11 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:85
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), ':111')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':111')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(119): Workerman\Worker::runAll()
+#9 {main}
+2018-11-15 06:59:11 pid:1 Worker process terminated
+2018-11-15 06:59:43 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:85
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), ':123456')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':123456')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(119): Workerman\Worker::runAll()
+#9 {main}
+2018-11-15 06:59:44 pid:1 Worker process terminated
+2018-11-15 07:10:26 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:86
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), ':aaa')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':aaa')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(120): Workerman\Worker::runAll()
+#9 {main}
+2018-11-15 07:10:26 pid:1 Worker process terminated
+2018-11-15 07:18:21 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:86
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), ':aaa')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':aaa')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(120): Workerman\Worker::runAll()
+#9 {main}
+2018-11-15 07:18:21 pid:1 Worker process terminated
+2018-11-15 07:22:30 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:86
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), ':qqq')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':qqq')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(120): Workerman\Worker::runAll()
+#9 {main}
+2018-11-15 07:22:30 pid:1 Worker process terminated
+2018-11-15 07:23:32 pid:1 Error: Call to a member function send() on null in E:\MyData\Third semester information\websocket\chatDemo\serve.php:86
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), ':aaa')
+#1 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), ':aaa')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #24)
+#3 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Events\Select.php(294): call_user_func_array(Array, Array)
+#4 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(2321): Workerman\Events\Select->loop()
+#5 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1315): Workerman\Worker->run()
+#6 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#7 E:\MyData\Third semester information\websocket\chatDemo\Workerman-master\Worker.php(507): Workerman\Worker::forkWorkers()
+#8 E:\MyData\Third semester information\websocket\chatDemo\serve.php(120): Workerman\Worker::runAll()
+#9 {main}
+2018-11-15 07:23:32 pid:1 Worker process terminated
